@@ -1,0 +1,18 @@
+--extra-index-url https://download.pytorch.org/whl/cu116
+
+torch
+torchvision
+torchaudio
+dotmap
+fastapi
+uvicorn
+omegaconf
+transformers
+sentence_transformers
+faiss-cpu
+einops
+pytorch-lightning
+ftfy
+scikit-image
+torchdiffeq
+jsonmerge
